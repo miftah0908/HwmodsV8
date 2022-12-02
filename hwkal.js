@@ -20,19 +20,19 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/@ZallMods' // ubah aia
 global.ig = '' // ubah aja
-global.email = 'zallmods992@gmail.com'
+global.email = '-'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Alexxander' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'XeanzBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'XeanzBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283195366404','6283833031795','6283877604686','62895330006855'] // ubah aja pake nomor lu
+global.owner = ['6281326539641'] // ubah aja pake nomor lu
 global.premium = ['6283195366404'] // ubah aja pake nomor lu
-global.packname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' // ubah aja
-global.ownerr = ['𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒'] // ubaha aja
-global.author = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah aja
+global.packname = 'Xeanz 𝐌Ṏ𝐃𝐒' // ubah aja
+global.ownerr = ['Alexxander 𝐌Ṏ𝐃𝐒'] // ubaha aja
+global.author = 'Xeanz 𝐌Ṏ𝐃𝐒' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
